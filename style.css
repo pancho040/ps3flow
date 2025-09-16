@@ -55,9 +55,9 @@ menu li:hover::after {
 }
 
 .gato {
-    width: 300px;   /* Ajusta el ancho */
-    height: auto;   /* Mantiene la proporción */
+    width: 300px;
+    height: auto;
     display: block;
-    margin: 20px auto; /* Centrar la imagen */
-    border-radius: 8px; /* Bordes redondeados opcionales */
+    margin: 100px auto 20px auto; /* más abajo y centrada */
+    border-radius: 8px;
 }
