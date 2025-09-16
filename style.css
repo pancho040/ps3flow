@@ -53,3 +53,11 @@ menu li:hover {
 menu li:hover::after {
     width: 100%; /* subrayado aparece al hover */
 }
+
+.gato {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 100px auto 20px auto; /* más abajo y centrada */
+    border-radius: 8px;
+}
